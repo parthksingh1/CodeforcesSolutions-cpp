@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*THIS IS MY BOILER PLATE 
+ACTUAL CODE IS DOWN*/
 #define ll long long
 #define pii pair<int, int>
 #define pll pair<long long, long long>
@@ -44,6 +46,8 @@ typedef unsigned long long int  uint64;
 //PARTH KUMAR SINGH//
 /*GREAT THINGS TAKE TIME*/
 
+
+//CODE STARTS HERE
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
